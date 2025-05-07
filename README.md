@@ -1,6 +1,6 @@
 # 🚀 ¡Construye y Potencia tu Porfolio de QA en GitHub! 🚀
 
-![Banner de la guía](./assets/guia_github_banner.png)
+![Banner de la guía](https://github.com/Atenea-Conocimientos/guia-porfolio-qa/blob/main/assets/guia_github_banner.png?raw=true)
 
 ¡Bienvenido/a a la guía definitiva para crear un porfolio de Quality Assurance (QA) en GitHub que realmente destaque! Si eres QA Manual buscando dar el salto a la automatización, o un QA Automation experimentado queriendo refinar tu presentación profesional, este es tu sitio.
 
