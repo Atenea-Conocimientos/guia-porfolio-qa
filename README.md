@@ -22,7 +22,7 @@ Esta guía está pensada para:
 Aquí encontrarás recursos detallados y ejemplos prácticos. ¡Sumérgete en el que más se ajuste a tu perfil actual!
 
 1.  📄 **[Guía: Creando tu Porfolio en GitHub - QA Manual en Transición a Automation](./docs/guia_qa_manual.md)**
-    * Aprende a demostrar tus habilidades de QA manual.
+    * Aprende a demostrar tus habilidades como QA manual.
     * Documenta tu viaje de aprendizaje hacia la automatización.
     * Incluye plantillas y ejemplos para planes de prueba, casos de prueba y más.
     * **Ideal para:** Quienes están comenzando en GitHub y quieren mostrar su potencial y compromiso con la automatización.
