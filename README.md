@@ -41,7 +41,7 @@ Aquí encontrarás recursos detallados y ejemplos prácticos. ¡Sumérgete en el
 
 Si esta guía y los recursos te resultan útiles, ¡me ayudarías muchísimo suscribiéndote a mi canal de YouTube! Allí comparto más contenido sobre QA, automatización, herramientas y consejos para crecer en esta apasionante carrera.
 
-👉 **[Haz clic aquí para suscribirte a mi canal: atenea conocimientos](https://www.youtube.com/@AteneaConocimientos)** 👈
+👉 **[Haz clic aquí para suscribirte a mi canal: Atenea Conocimientos](https://www.youtube.com/@AteneaConocimientos)** 👈
 
 Tu apoyo me permite seguir creando más material gratuito y de calidad para la comunidad. ¡Gracias!
 
