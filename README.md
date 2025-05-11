@@ -30,7 +30,7 @@ Aquí encontrarás recursos detallados y ejemplos prácticos. ¡Sumérgete en el
 
 2.  🛠️ **[Guía Avanzada de Porfolio en GitHub para QA Automation](./docs/guia_qa_automation.md)**
     * Descubre cómo estructurar proyectos de automatización complejos (UI, API, Mobile, Performance).
-    * Crea `README.md` impactantes para cada proyecto.
+    * Crea archivos `README.md` impactantes para cada proyecto.
     * Demuestra tu conocimiento en CI/CD, Docker y otras herramientas avanzadas.
     * **Ideal para:** QAs con experiencia en automatización que quieren llevar su porfolio al siguiente nivel.
     * ✨ **[Ver Ejemplo de Perfil README para QA Automation Avanzado](./ejemplos/ejemplo_qa_automation.md)**
