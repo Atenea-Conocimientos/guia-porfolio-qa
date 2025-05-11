@@ -25,15 +25,15 @@ Aquí encontrarás recursos detallados y ejemplos prácticos. ¡Sumérgete en el
     * Aprende a demostrar tus habilidades de QA manual.
     * Documenta tu viaje de aprendizaje hacia la automatización.
     * Incluye plantillas y ejemplos para planes de prueba, casos de prueba y más.
-    * **Ideal para:** Quienes están comenzando en GitHub y quieren mostrar su potencial y compromiso con la automatización.
-    * ✨ **[Ver Ejemplo de Perfil README para QA en Transición](./ejemplos/ejemplo_qa_manual.md)**
+    * **Ideal para:** quienes están comenzando en GitHub y quieren mostrar su potencial y compromiso con la automatización.
+    * ✨ **[Ver ejemplo de perfil README para QA en Transición](./ejemplos/ejemplo_qa_manual.md)**
 
 2.  🛠️ **[Guía Avanzada de Porfolio en GitHub para QA Automation](./docs/guia_qa_automation.md)**
     * Descubre cómo estructurar proyectos de automatización complejos (UI, API, Mobile, Performance).
     * Crea `README.md` impactantes para cada proyecto.
     * Demuestra tu conocimiento en CI/CD, Docker y otras herramientas avanzadas.
     * **Ideal para:** QAs con experiencia en automatización que quieren llevar su porfolio al siguiente nivel.
-    * ✨ **[Ver Ejemplo de Perfil README para QA Automation Avanzado](./ejemplos/ejemplo_qa_automation.md)**
+    * ✨ **[Ver ejemplo de perfil README para QA Automation Avanzado](./ejemplos/ejemplo_qa_automation.md)**
 
 ---
 
