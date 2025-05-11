@@ -24,7 +24,7 @@ Aquí encontrarás recursos detallados y ejemplos prácticos. ¡Sumérgete en el
 1.  📄 **[Guía: Creando tu Porfolio en GitHub - QA Manual en Transición a Automation](./docs/guia_qa_manual.md)**
     * Aprende a demostrar tus habilidades de QA manual.
     * Documenta tu viaje de aprendizaje hacia la automatización.
-    * Incluye plantillas y ejemplos para planes de prueba, casos de prueba y más.
+    * Incluye plantillas y ejemplos de planes de prueba, casos de prueba y más.
     * **Ideal para:** Quienes están comenzando en GitHub y quieren mostrar su potencial y compromiso con la automatización.
     * ✨ **[Ver Ejemplo de Perfil README para QA en Transición](./ejemplos/ejemplo_qa_manual.md)**
 
